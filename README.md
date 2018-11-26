@@ -1,2 +1,2 @@
-# labaTIIT
-ne zdaleshe 1(
+# hello world
+laba2 TIIT
